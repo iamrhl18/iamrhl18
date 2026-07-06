@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 About Me<br><br>- 🚀 Backend Developer | Java • Hibernate • MySQL • JDBC<br>- 🎓 CS Undergrad @ RR Institute of Modern Technology | CGPA 8.4<br>- 🧠 100+ DSA problems solved on LeetCode<br>- 🏗️ Building real-world backend systems — Payroll, Library & Student Management apps<br>- 🎯 Seeking a Software Engineering Internship to build impactful products
+### 👋 About Me<br><br>- 🚀 Backend Developer | Java • Hibernate • MySQL • JDBC<br>- 🎓 CS Undergrad @ RR Institute of Modern Technology | CGPA 8.4<br>- 🧠 150+ DSA problems solved on LeetCode<br>- 🏗️ Building real-world backend systems — Payroll, Library & Student Management apps<br>- 🎯 Seeking a Software Engineering Internship to build impactful products
 
 
 ## 🌐 Socials:
